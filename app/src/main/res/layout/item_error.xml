@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/tv_error_message"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center"
+    android:includeFontPadding="false"
+    android:minHeight="@dimen/space_24"
+    android:padding="@dimen/space_4"
+    android:textColor="@color/flush_mahogany_CC3737"
+    tools:text="Unknown error" />
